@@ -15,7 +15,7 @@
 <br clear="both">
   
 <!-- Seção de Ícones das Tecnologias Estudadas na Graduação -->
-<h3 align="center">💻 Technology and Tools</h3>
+<h3 align="center">Technology and Tools</h3>
 <div align="center">
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
@@ -43,7 +43,7 @@
 <br clear="both">
 
 <!-- Seção das Redes Sociais e Contato -->
-<h3 align="center">social media:</h3>
+<h3 align="center">Social Media</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/joelcarlosassuncaopadilha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
