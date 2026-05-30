@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
   <!-- Substitua pelos seus links reais abaixo -->
-  <a href="https://discord.com/users/DeusLenda" target="_blank">
+  <a href="https://discord.com/users/547215033571213312" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/joelcarlos.padilha" target="_blank">
